@@ -1,17 +1,7 @@
 
-CS542 Design Patterns
-Fall-2016
-Assignment 5
-
 README FILE
 
-Due Date: Thursday, December 15, 2016
-Submission Date: Thursday, December 15, 2016
-Author: Shreyas Mahanthappa Nagaraj
-e-mail: smn1@binghamton.edu
-
 PURPOSE: To implement Object comparision functionality, using Java Reflection property
-PERCENT COMPLETE: I believe I have completed 100% of this project.
 
 FILES:
 		------driver:
